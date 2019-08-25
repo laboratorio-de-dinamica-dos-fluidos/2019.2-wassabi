@@ -7,3 +7,4 @@ Letícia Marinho de Souza - 16/0131898
 
 ## Tema: Tubo de Venturi
 ### Objetivo: 
+Será analisado o efeito Venturi, afim de obter vazão volumétrica e velocidade de escoamento, na qual essa velocidade relacionar-se-á com a pressão dependendo da área em que o fluido se encontra.
