@@ -21,3 +21,4 @@ A primeira etapa consiste em fazer um levantamento de referências bibliográfic
 Durante essa etapa, será realizado o levantamento dos materiais necessários para a confecção da estrutura onde será executado o experimento.
 
 ## Avaliação de Viabilidade: 
+O projeto em mente para o tema escolhido não trará muitas inconveniências, pois exige poucos materiais, tem montagem simples e pode ser analisado sem muita dificuldade. Ao mesmo tempo que será suficiente para um bom estudo de dinâmica dos fluidos, o trabalho escolhido irá evitar que fiquemos sobrecarregados, considerando as outras tarefas em mãos.
