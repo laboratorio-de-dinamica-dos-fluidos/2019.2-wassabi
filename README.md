@@ -14,7 +14,7 @@ Para que o perfil de asa seja sustentado, deve haver uma pressão dinâmica maio
 
 ## Escopo do Experimento: 
 ### Etapa 1:
-A primeira etapa consiste em fazer um levantamento de referências bibliográficas do assunto escolhido. Além disso, haverá busca por experimentos já realizados, que sejam semelhantes, com o intuito de buscar possíveis soluções. 
+A primeira etapa consiste em fazer um levantamento de referências bibliográficas do assunto escolhido. Além disso, haverá busca por experimentos já realizados que sejam semelhantes, com o intuito de buscar possíveis soluções. 
 
 ### Etapa 2:
 
