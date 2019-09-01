@@ -18,7 +18,10 @@ Sendo assim, um anemômetro será utilizado.
 A primeira etapa consiste em fazer um levantamento de referências bibliográficas do assunto escolhido. Além disso, haverá busca por experimentos já realizados que sejam semelhantes, com o intuito de buscar possíveis soluções. 
 
 ### Etapa 2:
-Durante essa etapa, será realizado o levantamento dos materiais necessários para a confecção da estrutura onde será executado o experimento.
+Durante essa etapa, será realizado o levantamento dos materiais necessários para a confecção da estrutura onde será executado o experimento. Também nessa etapa haverá a montagem da estrutura.
+
+### Etapa 3:
+Por fim, na terceira etapa, o experimento será realizado e as medições feitas. Serão analisados os dados obtidos experimentalmente e comparados com a análise analítica.
 
 ## Avaliação de Viabilidade: 
 O projeto em mente para o tema escolhido não trará muitas inconveniências, pois exige poucos materiais, tem montagem simples e pode ser analisado sem muita dificuldade. Ao mesmo tempo que será suficiente para um bom estudo de dinâmica dos fluidos, o trabalho escolhido irá evitar que fiquemos sobrecarregados, considerando as outras tarefas em mãos.
