@@ -11,6 +11,7 @@ Será analisado o efeito Venturi, afim de obter vazão volumétrica e velocidade
 
 ## Requisitos de Solução: 
 Para que o perfil de asa seja sustentado, deve haver uma pressão dinâmica maior do que a pressão estática, ou haver um estreitamento no escoamento. Para conhecer essas pressões, precisamos achar as velocidades iniciais e finais do escoamento.
+Sendo assim, um anemômetro será utilizado.
 
 ## Escopo do Experimento: 
 ### Etapa 1:
