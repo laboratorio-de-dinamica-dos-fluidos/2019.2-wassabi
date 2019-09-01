@@ -17,6 +17,6 @@ Para que o perfil de asa seja sustentado, deve haver uma pressão dinâmica maio
 A primeira etapa consiste em fazer um levantamento de referências bibliográficas do assunto escolhido. Além disso, haverá busca por experimentos já realizados que sejam semelhantes, com o intuito de buscar possíveis soluções. 
 
 ### Etapa 2:
-
+Durante essa etapa, será realizado o levantamento dos materiais necessários para a confecção da estrutura onde será executado o experimento.
 
 ## Avaliação de Viabilidade: 
