@@ -5,23 +5,40 @@ Alexandre Keiiti Moriya - 17/0004431 <br />
 Gustavo Weffort Fernandes - 17/0058905 <br />
 Letícia Marinho de Souza - 16/0131898
 
-## Tema: Tubo de Venturi
+## Tema: Efeito Bernoulli
 ### Objetivo: 
-Será analisado o efeito Venturi, afim de obter vazão volumétrica e velocidade de escoamento, na qual essa velocidade relacionar-se-á com a pressão dependendo da área em que o fluido se encontra.
+Validar o efeito Bernoulli, bem como, relacionar as grandezas velocidade e pressão de escoamento de um fluido.
 
 ## Requisitos de Solução: 
-Para que o perfil de asa seja sustentado, deve haver uma pressão dinâmica maior do que a pressão estática, ou haver um estreitamento no escoamento. Para conhecer essas pressões, precisamos achar as velocidades iniciais e finais do escoamento.
-Sendo assim, um anemômetro será utilizado.
+1. Definir o volume de controle
+2. Definir a vazão
+3. Definir os parâmetros necessários para se utilizar o efeito Bernoulli
+4. Calcular a diferença de pressão entre os corpos observados com relação a parte externa como na figura abaixo:
 
 ## Escopo do Experimento: 
-### Etapa 1:
-A primeira etapa consiste em fazer um levantamento de referências bibliográficas do assunto escolhido. Além disso, haverá busca por experimentos já realizados que sejam semelhantes, com o intuito de buscar possíveis soluções. 
+### Etapa 1:Montar o experimento simplificado de uma simulação de um rio.
 
-### Etapa 2:
-Durante essa etapa, será realizado o levantamento dos materiais necessários para a confecção da estrutura onde será executado o experimento. Também nessa etapa haverá a montagem da estrutura.
+Materiais e procedimentos: 
+- Mangueira
+- Bacia
+- Barcos de papel
+- Balde
+-Água
+
+### Etapa 2: Levantamento das equações necessárias para a análise do sistema
+- Desenvolver a equação de Bernoulli e reescrevê-la de forma a se adequar ao experimento analisado. 
+- A variável que nós terá de ser encontrada é a pressão entre os barcos
 
 ### Etapa 3:
-Por fim, na terceira etapa, o experimento será realizado e as medições feitas. Serão analisados os dados obtidos experimentalmente e comparados com a literatura, a fim de elaborar o relatório final. 
+Fazer repetições com variáveis diferentes: como vazão, pressão e distância entre os barcos.
+
+### Etapa 4:
+Feitas as análises comparar com a literatura para verificar a validação do efeito Bernoulli para esse caso.
 
 ## Avaliação de Viabilidade: 
-O projeto em mente para o tema escolhido não trará muitas inconveniências, pois exige poucos materiais, tem montagem simples e pode ser analisado sem muita dificuldade. Ao mesmo tempo que será suficiente para um bom estudo de dinâmica dos fluidos, o trabalho escolhido irá evitar que fiquemos sobrecarregados, considerando as outras tarefas em mãos.
+Primieramente, verificar as condições para que o efeito bernoulli aconteça: se vazão que vai ser utilizada e a densidade do fluido sejam constante, se o fluido possui viscosidade = 0 e que o fluxo seja irrotacional ou que a equação seja aplicada em uma linha de corrente.
+
+## Procedimentos experimentais:
+
+## Resultados esperados:
+Espera-se que os barcos colidam devido a diminuição da pressão entre os barcos devido o aumento da vazão no meio deles. Caso a vazão aumente mais, mais intenso será a colisão. Se aumentarmos a vazão do lado externo a colisão será mais suave ou mesmo não ocorrerá.
