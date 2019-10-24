@@ -7,7 +7,7 @@ Letícia Marinho de Souza - 16/0131898
 
 ## Tema: Efeito Bernoulli
 ### Objetivo: 
-Validar o efeito Bernoulli para um caso específico, bem como, relacionar as grandezas velocidade e pressão de escoamento de um fluido.
+Validar a teoria na qual a equação de Bernoulli se baseia, relacionando as grandezas de velocidade de um fluido com as diferenças de altura entre determinadas partes do escoamento.
 
 ## Requisitos de Solução: 
 1. Definir o volume de controle
@@ -16,7 +16,8 @@ Validar o efeito Bernoulli para um caso específico, bem como, relacionar as gra
 4. Calcular a diferença de pressão entre os corpos observados com relação a parte externa como na figura abaixo:
 
 ## Escopo do Experimento: 
-  Por meio de uma simulação de um escoamento de um fluido, no caso a água, observa-se como que dois corpos se comportam quando se varia a vazão deste fluido entre eles.
+  Por meio de uma simulação de um escoamento de um fluido, no caso a água, observa-se como a velocidade de tal fluido varia ao inserir variações de altura no escoamento.
+
 
 ## Avaliação de Viabilidade: 
 Primieramente, verificar as condições para que o efeito bernoulli aconteça: se vazão que vai ser utilizada e a densidade do fluido sejam constante, se o fluido possui viscosidade = 0 e que o fluxo seja irrotacional ou que a equação seja aplicada em uma linha de corrente.     
@@ -28,9 +29,9 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
   
 | Integrante | Montagem | Execução |
 |--|--|--|
-| Alexandre Moriya | Confecção dos corpos de prova | Posicionar os corpos de prova |
-| Gustavo Weffort | Responsável por encontrar a fonte de vazão do sistema | Direcionar o fluxo do sistema |
-| Letícia Marinho |  Coordenar a montagem  | Coordenar a execução |
+| Alexandre Moriya | Mangueira | Segurar a ponta da mangueira em uma altura fixa |
+| Gustavo Weffort | Mangueira | Levantar e abaixar trechos da mangueira |
+| Letícia Marinho |  -  | Ligar mangueira e registrar o alcance horizontal da água em cada caso |
 
 ## Cronograma
 
