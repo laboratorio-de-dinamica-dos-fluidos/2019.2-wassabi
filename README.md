@@ -9,7 +9,7 @@ Letícia Marinho de Souza - 16/0131898
 ## Introdução
 Estreitamente relacionada à equação da energia para escoamento permanente, a equação de Bernoulli (Equação 1) relaciona pressão, velocidade e elevação para um fluido sem atrito. A equação de Bernoulli é muito famosa e bastante usada, mas é necessário estar atento às suas restrições — todos os fluidos são viscosos e, portanto, todos os escoamentos apresentam algum atrito. Para usarmos corretamente a equação de Bernoulli, devemos restringi-la a regiões de escoamento aproximadamente sem atrito.
 
-
+![Equação de Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-wassabi/blob/master/Equa%C3%A7%C3%A3o%20de%20Bernoulli.PNG?raw=true)
 
 ## Objetivo: 
 Validar a teoria na qual a equação de Bernoulli se baseia, relacionando as grandezas de velocidade de um fluido com as diferenças de altura entre determinadas partes do escoamento.
