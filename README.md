@@ -10,10 +10,10 @@ Letícia Marinho de Souza - 16/0131898
 Validar o efeito Bernoulli para um caso específico, bem como, relacionar as grandezas velocidade e pressão de escoamento de um fluido.
 
 ## Requisitos de Solução: 
-1. Definir o volume de controle
-2. Definir a vazão
-3. Definir os parâmetros necessários para se utilizar o efeito Bernoulli
-4. Calcular a diferença de pressão entre os corpos observados com relação a parte externa como na figura abaixo:
+1. Inicialmente precisamos uma mangueira ligada a uma torneira para podermos analisar seu escoamento.
+2. Seu escoamento vai ser analisado em alturas diferentes, para isso precisa-se de um suporte/mecanismo para facilitar essa variação de altura em cada caso.
+3. Para se calcular a velocidade da água em cada caso a ser analisado precisa-se de um cronômetro e uma distância a ser definida.
+4. Analisar os dados obtidos e explicar a velocidade do escoamento em função da sua altura evidenciando o efeito Bernoulli.
 
 ## Escopo do Experimento: 
   Por meio de uma simulação de um escoamento de um fluido, no caso a água, observa-se como que dois corpos se comportam quando se varia a vazão deste fluido entre eles.
@@ -33,18 +33,20 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 | Letícia Marinho |  Coordenar a montagem  | Coordenar a execução |
 
 ## Cronograma
+02/10 à 09/10 - Discussão sobre a mudança do tema
+09/10 à 16/10 - Definição do novo experimento
+16/10 à 23/10 - Atualização no GitHub de acordo com o experimento proposto
+23/10 à 30/10 - Montagem do experimento
+30/10 à 06/11 - Análise dos dados, período de revisão da veracidade do experimento.
+06/11 à 13/11 - Conclusão e entrega do trabalho
 
 ## Dados experimentais
+  Para cada caso analisado dados importantes foram anotados: altura que se encontra a mangueira, ou seja, o escoamento; o tempo em que o escoamento demorou para atingir 1 m de distância.
 
-* Por meio da equação de Bernoulli, achar a pressão entre os corpos de prova em função da vazão.
-
-*Pressão atmosférica = 1,01325 × 10^5 Pa
-
-*Vazão da mangueira: para isso usou-se um balde de x L, no qual cronometrou-se o tempo que o balde levou para encher. Assim, teve-se x L/m^3
-
-*Velocidade do escoamento
-Dividindo a vazão pela área que ela ira escoar, tem-se a velocidade do fluido. Fazendo os calculos achou-se x m/s
-
+| | Caso 1 | Caso 2 | Caso 3 |
+|--|--|--|--|
+| Altura (m)|        |        |        | 
+|Tempo (s)  |        |        |        | 
 
 
 ## Resultados esperados:
