@@ -9,7 +9,7 @@ Letícia Marinho de Souza - 16/0131898
 ## Introdução
 Estreitamente relacionada à equação da energia para escoamento permanente, a equação de Bernoulli (Equação 1) relaciona pressão, velocidade e elevação para um fluido sem atrito. A equação de Bernoulli é muito famosa e bastante usada, mas é necessário estar atento às suas restrições — todos os fluidos são viscosos e, portanto, todos os escoamentos apresentam algum atrito. Para usarmos corretamente a equação de Bernoulli, devemos restringi-la a regiões de escoamento aproximadamente sem atrito.
 
-![Equação de Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-wassabi/blob/master/Equa%C3%A7%C3%A3o%20de%20Bernoulli.PNG?raw=true)
+![Equação de Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-wassabi/blob/master/Equa%C3%A7%C3%A3o%20de%20Bernoulli.PNG?raw=true)                                                            (1).                                                 
 
 ## Objetivo: 
 Validar a teoria na qual a equação de Bernoulli se baseia, relacionando as grandezas de velocidade de um fluido com as diferenças de altura entre determinadas partes do escoamento.
@@ -22,7 +22,6 @@ Validar a teoria na qual a equação de Bernoulli se baseia, relacionando as gra
 
 ## Escopo do Experimento: 
   Por meio de uma simulação de um escoamento de um fluido, no caso a água, observa-se como a velocidade de tal fluido varia ao inserir variações de altura no escoamento.
-
 
 ## Avaliação de Viabilidade: 
 Primieramente, verificar as condições para que o efeito bernoulli aconteça: se vazão que vai ser utilizada e a densidade do fluido sejam constante, se o fluido possui viscosidade = 0 e que o fluxo seja irrotacional ou que a equação seja aplicada em uma linha de corrente.     
@@ -39,12 +38,12 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 | Letícia Marinho |  -  | Ligar mangueira e registrar o alcance horizontal da água em cada caso |
 
 ## Cronograma
-02/10 à 09/10 - Discussão sobre a mudança do tema
-09/10 à 16/10 - Definição do novo experimento
-16/10 à 23/10 - Atualização no GitHub de acordo com o experimento proposto
-23/10 à 30/10 - Montagem do experimento
-30/10 à 06/11 - Análise dos dados, período de revisão da veracidade do experimento.
-06/11 à 13/11 - Conclusão e entrega do trabalho
+* 02/10 à 09/10 - Discussão sobre a mudança do tema
+* 09/10 à 16/10 - Definição do novo experimento
+* 16/10 à 23/10 - Atualização no GitHub de acordo com o experimento proposto
+* 23/10 à 30/10 - Montagem do experimento
+* 30/10 à 06/11 - Análise dos dados, período de revisão da veracidade do experimento.
+* 06/11 à 13/11 - Conclusão e entrega do trabalho
 
 ## Dados experimentais
   Para cada caso analisado dados importantes foram anotados: altura que se encontra a mangueira, ou seja, o escoamento; o tempo em que o escoamento demorou para atingir 1 m de distância.
@@ -57,3 +56,5 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 
 ## Resultados esperados:
 Espera-se que os barcos colidam devido a diminuição da pressão entre os barcos devido o aumento da vazão no meio deles. Caso a vazão aumente mais, mais intenso será a colisão. Se aumentarmos a vazão do lado externo a colisão será mais suave ou mesmo não ocorrerá.
+
+## Referências Bibliográficas
