@@ -59,6 +59,6 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 
 
 ## Resultados esperados:
-Espera-se que os barcos colidam devido a diminuição da pressão entre os barcos devido o aumento da vazão no meio deles. Caso a vazão aumente mais, mais intenso será a colisão. Se aumentarmos a vazão do lado externo a colisão será mais suave ou mesmo não ocorrerá.
+
 
 ## Referências Bibliográficas
