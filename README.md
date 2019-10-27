@@ -13,6 +13,8 @@ Estreitamente relacionada à equação da energia para escoamento permanente, a 
 
 Como o princípio de Bernoulli pode ser visto como outra forma da lei de conservação da energia, ou seja, em uma linha de corrente a variação da energia é nula, num exemplo como as tubulações, podemos reduzir a área de seção transversal para aumentar a velocidade do fluido que está sendo escoado.
 
+![Foto1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-wassabi/blob/master/Tubo%20Eq%20Bernoulli.png?raw=true)
+
 ## Objetivo: 
 Validar a teoria na qual a equação de Bernoulli se baseia, relacionando as grandezas de velocidade de um fluido com as diferenças de altura entre determinadas partes do escoamento.
 
