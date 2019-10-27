@@ -19,9 +19,9 @@ Como o princípio de Bernoulli pode ser visto como outra forma da lei de conserv
 Validar a teoria na qual a equação de Bernoulli se baseia, relacionando as grandezas de velocidade de um fluido com as diferenças de altura entre determinadas partes do escoamento.
 
 ## Requisitos de Solução: 
-1. Inicialmente precisamos uma mangueira ligada a uma torneira para podermos analisar seu escoamento.
+1. Inicialmente precisa-se de uma mangueira ligada a uma torneira para analisar seu escoamento.
 2. Seu escoamento vai ser analisado em alturas diferentes, para isso precisa-se de um suporte/mecanismo para facilitar essa variação de altura em cada caso.
-3. Para se calcular a velocidade da água em cada caso a ser analisado precisa-se de um cronômetro e uma distância a ser definida.
+3. Para calcular-se a velocidade da água em cada caso a ser analisado precisa-se de um cronômetro e uma distância a ser definida.
 4. Analisar os dados obtidos e explicar a velocidade do escoamento em função da sua altura evidenciando o efeito Bernoulli.
 
 ## Escopo do Experimento: 
