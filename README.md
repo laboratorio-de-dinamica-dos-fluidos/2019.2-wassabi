@@ -1,9 +1,9 @@
 ## 2019.2-wassabi
 #
 ## Intregrantes:
-Alexandre Keiiti Moriya - 17/0004431 <br />
-Gustavo Weffort Fernandes - 17/0058905 <br />
-Letícia Marinho de Souza - 16/0131898
+Alexandre Keiiti Moriya
+Gustavo Weffort Fernandes
+Letícia Marinho de Souza
 
 ## Tema: Efeito Bernoulli
 ## Introdução
@@ -32,7 +32,13 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
   Assim, verificar se tem todas os parâmetros estabelecidos para que se possa mensurar a diferença de pressão do sistema.
   Um empecilho, pode ser o que se utilizará para promover a vazão do fluido, tendo em vista que o uso de uma mangueira, por consequência o experimento terá que ser realizado perto de uma.
 
-## Procedimentos experimentais:
+## Procedimentos de montagem e execução:
+# Materiais necessários:
+  * Mangueira de jardim
+  * Trena 
+  * Objetos para marcações do escoamento do fluido no chão
+
+# Montagem: 
   O tempo de montagem seria uns 7 min, sendo 5 min para a montagem e 2 min para a visualização. 
   
 | Integrante | Montagem | Execução |
