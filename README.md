@@ -29,16 +29,16 @@ Validar a teoria na qual a equação de Bernoulli se baseia, relacionando as gra
 
 ## Avaliação de Viabilidade: 
 Primieramente, verificar as condições para que o efeito bernoulli aconteça: se vazão que vai ser utilizada e a densidade do fluido sejam constante, se o fluido possui viscosidade = 0 e que o fluxo seja irrotacional ou que a equação seja aplicada em uma linha de corrente.     
-  Assim, verificar se tem todas os parâmetros estabelecidos para que se possa mensurar a diferença de pressão do sistema.
+  Assim, verificar se tem todos os parâmetros estabelecidos para que se possa mensurar a diferença de pressão do sistema.
   Um empecilho, pode ser o que se utilizará para promover a vazão do fluido, tendo em vista que o uso de uma mangueira, por consequência o experimento terá que ser realizado perto de uma.
 
 ## Procedimentos de montagem e execução:
-# Materiais necessários:
+### Materiais necessários:
   * Mangueira de jardim
   * Trena 
-  * Objetos para marcações do escoamento do fluido no chão
+  * Objetos para marcações do ponto final do escoamento chão
 
-# Montagem: 
+### Montagem: 
   O tempo de montagem seria uns 7 min, sendo 5 min para a montagem e 2 min para a visualização. 
   
 | Integrante | Montagem | Execução |
@@ -55,16 +55,14 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 * 30/10 à 06/11 - Análise dos dados, período de revisão da veracidade do experimento.
 * 06/11 à 13/11 - Conclusão e entrega do trabalho
 
-## Dados experimentais
-  Para cada caso analisado dados importantes foram anotados: altura que se encontra a mangueira, ou seja, o escoamento; o tempo em que o escoamento demorou para atingir 1 m de distância.
+## Resultados esperados:
 
+## Dados experimentais
+  Foram analisados dois casos de escoamento: no primeiro caso, o bico da mangueira é posicionado a uma altura relativamente baixa (como na imagem abaixo) simbolizando o ponto de partida com relação à altura.
+  
 | | Caso 1 | Caso 2 | Caso 3 |
 |--|--|--|--|
 | Altura (m)|        |        |        | 
 |Tempo (s)  |        |        |        | 
-
-
-## Resultados esperados:
-
 
 ## Referências Bibliográficas
