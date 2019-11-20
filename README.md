@@ -56,11 +56,19 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 * 06/11 à 13/11 - Conclusão e entrega do trabalho
 
 ## Resultados esperados: 
+Dada a equação (1), pode-se fazer um rearranjo nela com considerações feitas de acordo com a montagem do experimento. A consideração é que como estamos usando uma mangueira, não tem diferença de área no escoamento, adimitindo mesma pressão ao longo dela, logo a equação fica:
+$$
+ 
+  {(h_{2}-h{1})}\times{g}+\dfrac{v_{2}^{2}-v_{1}^{2}=0 
+
+$$
+
+Logo, percebe-se que quando aumentamos uma diferença de altura entre o escoamento, a diferença de velocidade precisa diminuir para equilibrar a equação.
 
 ## Dados experimentais
-  Foram feitas duas formas de análise  de escoamento. Em um momento analisou-se a sua vazão utilizando-se um cronômetro e um balde e em um segundo momento analisou-se a distância percorrida fazendo marcações no chão. Para cada momento foi dividido em dois casos em função de duas alturas doferentes, como na foto abaixo:
+Foram feitas duas formas de análise  de escoamento. Em um momento analisou-se a sua vazão utilizando-se um cronômetro e um balde e em um segundo momento analisou-se a distância percorrida fazendo marcações no chão. Para cada momento foi dividido em dois casos em função de duas alturas doferentes, como na foto abaixo:
 
-  No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
+No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
 
 ### Momento 1: vazão
 | Grandezas| Caso 1 | Caso 2 |
@@ -77,6 +85,6 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 
 
 ## Conclusão
-
+Tanto no primeiro momento quanto no segundo momento, os resultados mostram-se coerentes. Vê-se que no caso 1 temos um tempo menor para encher o balde e uma distância percorrida maior que se comparadas com o caso 2.
 
 ## Referências Bibliográficas
