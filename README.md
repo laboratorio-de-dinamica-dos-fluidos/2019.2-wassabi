@@ -55,14 +55,28 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 * 30/10 à 06/11 - Análise dos dados, período de revisão da veracidade do experimento.
 * 06/11 à 13/11 - Conclusão e entrega do trabalho
 
-## Resultados esperados:
+## Resultados esperados: 
 
 ## Dados experimentais
-  Foram analisados dois casos de escoamento: no primeiro caso, o bico da mangueira é posicionado a uma altura relativamente baixa (como na imagem abaixo) simbolizando o ponto de partida com relação à altura.
-  
-| | Caso 1 | Caso 2 | Caso 3 |
-|--|--|--|--|
-| Altura (m)|        |        |        | 
-|Tempo (s)  |        |        |        | 
+  Foram feitas duas formas de análise  de escoamento. Em um momento analisou-se a sua vazão utilizando-se um cronômetro e um balde e em um segundo momento analisou-se a distância percorrida fazendo marcações no chão. Para cada momento foi dividido em dois casos em função de duas alturas doferentes, como na foto abaixo:
+
+  No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
+
+### Momento 1: vazão
+| Grandezas| Caso 1 | Caso 2 |
+|--|--|--|
+| Altura (m)|        |        |        
+|Tempo (s)  |        |        | 
+
+
+ ### Momento 2: distância percorrida    
+| Grandezas| Caso 1 | Caso 2 |
+|--|--|--|
+| Altura (m)|        |        |
+|Distância  |        |        |
+
+
+## Conclusão
+
 
 ## Referências Bibliográficas
