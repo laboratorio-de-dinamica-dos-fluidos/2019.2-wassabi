@@ -75,7 +75,7 @@ No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baix
 | Grandezas| Caso 1 | Caso 2 |
 |--|--|--|
 | Altura (m)|  0,2   |  1,95  |        
-|Tempo (s)  |        |        | 
+|Tempo (s)  |  180   |  120   | 
 
 
  ### Momento 2: distância percorrida    
