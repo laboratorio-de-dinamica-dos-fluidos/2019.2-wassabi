@@ -81,8 +81,8 @@ No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baix
  ### Momento 2: distância percorrida    
 | Grandezas| Caso 1 | Caso 2 |
 |--|--|--|
-| Altura (m)|  0,9   |  1,95  |
-|Distância  |  3,71  |  5,75  |
+| Altura (m)  |  0,9   |  1,95  |
+|Distância (m)|  3,71  |  5,75  |
 
 
 ## Conclusão
