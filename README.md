@@ -59,9 +59,9 @@ Primeiramente, verificar as condições para que o efeito bernoulli aconteça: s
 Dada a equação (1), pode-se fazer um rearranjo nela com considerações feitas de acordo com a montagem do experimento. A consideração é que como estamos usando uma mangueira, não tem diferença de área no escoamento, adimitindo mesma pressão ao longo dela, logo a equação fica:
 
 
-\begin{equation}
+
 {(h_{2}-h_{1})}\times{g}+\frac{v_{2}^{2}-v_{1}^{2}}{2}=0
-\end{equation}
+
 
 
 Logo, percebe-se que quando aumentamos uma diferença de altura entre o escoamento, a diferença de velocidade precisa diminuir para equilibrar a equação.
