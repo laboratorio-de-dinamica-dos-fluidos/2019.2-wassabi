@@ -28,9 +28,9 @@ Validar a teoria na qual a equação de Bernoulli se baseia, relacionando as gra
   Por meio de uma simulação de um escoamento de um fluido, no caso a água, observa-se como a velocidade de tal fluido varia ao inserir variações de altura no escoamento.
 
 ## Avaliação de Viabilidade: 
-Primieramente, verificar as condições para que o efeito bernoulli aconteça: se vazão que vai ser utilizada e a densidade do fluido sejam constante, se o fluido possui viscosidade = 0 e que o fluxo seja irrotacional ou que a equação seja aplicada em uma linha de corrente.     
+Primeiramente, verificar as condições para que o efeito bernoulli aconteça: se vazão que vai ser utilizada e a densidade do fluido sejam constantes, se o fluido possui viscosidade = 0 e que o fluxo seja irrotacional ou que a equação seja aplicada em uma linha de corrente.     
   Assim, verificar se tem todos os parâmetros estabelecidos para que se possa mensurar a diferença de pressão do sistema.
-  Um empecilho, pode ser o que se utilizará para promover a vazão do fluido, tendo em vista que o uso de uma mangueira, por consequência o experimento terá que ser realizado perto de uma.
+  Um empecilho pode ser o que se utilizará para promover a vazão do fluido, tendo em vista que o uso de uma mangueira, por consequência o experimento terá que ser realizado perto de uma.
 
 ## Procedimentos de montagem e execução:
 ### Materiais necessários:
@@ -59,7 +59,7 @@ Primieramente, verificar as condições para que o efeito bernoulli aconteça: s
 Dada a equação (1), pode-se fazer um rearranjo nela com considerações feitas de acordo com a montagem do experimento. A consideração é que como estamos usando uma mangueira, não tem diferença de área no escoamento, adimitindo mesma pressão ao longo dela, logo a equação fica:
 $$
  
-  {(h_{2}-h{1})}\times{g}+\dfrac{v_{2}^{2}-v_{1}^{2}=0 
+  {(h_{2}-h_{1})}\times{g}+\dfrac{v_{2}^{2}-v_{1}^{2}=0 
 
 $$
 
@@ -73,15 +73,15 @@ No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baix
 ### Momento 1: vazão
 | Grandezas| Caso 1 | Caso 2 |
 |--|--|--|
-| Altura (m)|        |        |        
+| Altura (m)|  0,2   |  1,95  |        
 |Tempo (s)  |        |        | 
 
 
  ### Momento 2: distância percorrida    
 | Grandezas| Caso 1 | Caso 2 |
 |--|--|--|
-| Altura (m)|        |        |
-|Distância  |        |        |
+| Altura (m)|  0,9   |  1,95  |
+|Distância  |  3,71  |  5,75  |
 
 
 ## Conclusão
