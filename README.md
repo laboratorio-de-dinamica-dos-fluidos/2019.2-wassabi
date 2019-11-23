@@ -60,7 +60,7 @@ Dada a equação (1), pode-se fazer um rearranjo nela com considerações feitas
 
 $$
  
-  {(h_{2}-h_{1})}\times{g}+\dfrac{v_{2}^{2}-v_{1}^{2}=0 
+  {(h_{2}-h_{1})}\times{g}+\dfrac{v_{2}^{2}-v_{1}^{2}=0} 
 
 $$
 
