@@ -60,7 +60,7 @@ Dada a equação (1), pode-se fazer um rearranjo nela com considerações feitas
 
 
 
-{(h_{2}-h_{1})}\times{g}+\frac{v_{2}^{2}-v_{1}^{2}}{2}=0
+![equacao simplificada](http://latex.codecogs.com/gif.latex?%7B%28h_%7B2%7D-h_%7B1%7D%29%7D%5Ctimes%7Bg%7D&plus;%5Cfrac%7Bv_%7B2%7D%5E%7B2%7D-v_%7B1%7D%5E%7B2%7D%7D%7B2%7D%3D0)
 
 
 
