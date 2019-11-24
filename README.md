@@ -67,20 +67,23 @@ Dada a equação (1), pode-se fazer um rearranjo nela com considerações feitas
 Logo, percebe-se que quando aumentamos uma diferença de altura entre o escoamento, a diferença de velocidade precisa diminuir para equilibrar a equação.
 
 ## Dados experimentais
-Foram feitas duas formas de análise  de escoamento. Em um momento analisou-se a sua vazão utilizando-se um cronômetro e um balde e em um segundo momento analisou-se a distância percorrida fazendo marcações no chão. Para cada momento foi dividido em dois casos em função de duas alturas doferentes, como nas fotos abaixo:
+Foram feitas duas formas de análise  de escoamento. Em um momento analisou-se a sua vazão utilizando-se um cronômetro e um balde e em um segundo momento analisou-se a distância percorrida fazendo marcações no chão. 
 
-
-![image](https://user-images.githubusercontent.com/54364474/69487417-29c5ae80-0e38-11ea-8c72-ed66278e19e6.png)
-
-* *Imagem: primeira elevação da mangueira para ambas as etapas* *
+Primeiramente, a mangueira foi posicionada de modo a deixar grande parte de seu comprimento aproximadamente na mesma altura em relação ao solo, e mais alta do que o solo. O objetivo disso era permitir que o fluxo de água se estabilizasse ao longo de um comprimento maior, algo que não aconteceria caso elevássemos apenas um ponto da mangueira. Desse modo, pudemos tomar como referência a mangueira na altura do telhado, como na imagem a seguir.
 
 ![image](https://user-images.githubusercontent.com/54364474/69487423-3ba75180-0e38-11ea-98ac-477eeba271ae.png)
 
-* *Imagem: posicionamento da mangueira para realizar o experimento* *
+* *Imagem: posicionamento da mangueira para realizar o experimento* 
+
+Para cada momento foi dividido em dois casos em função de duas alturas doferentes, como nas fotos abaixo:
+
+![image](https://user-images.githubusercontent.com/54364474/69487417-29c5ae80-0e38-11ea-8c72-ed66278e19e6.png)
+
+* *Imagem: primeira elevação da mangueira para ambas as etapas* 
 
 ![image](https://user-images.githubusercontent.com/54364474/69487425-54b00280-0e38-11ea-9ced-9d4dc2e009ba.png)
 
-* *Imagem: segunda elevação da mangueira para ambas as etapas* * 
+* *Imagem: segunda elevação da mangueira para ambas as etapas* 
 
 No primeiro caso, a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
 
