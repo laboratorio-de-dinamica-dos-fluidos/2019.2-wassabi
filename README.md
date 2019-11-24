@@ -72,11 +72,17 @@ Foram feitas duas formas de análise  de escoamento. Em um momento analisou-se a
 
 ![image](https://user-images.githubusercontent.com/54364474/69487417-29c5ae80-0e38-11ea-8c72-ed66278e19e6.png)
 
+* *Imagem: primeira elevação da mangueira para ambas as etapas* *
 
 ![image](https://user-images.githubusercontent.com/54364474/69487423-3ba75180-0e38-11ea-98ac-477eeba271ae.png)
-Imagem: posicionamento da mangueira para realizar o experimento
 
-No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
+* *Imagem: posicionamento da mangueira para realizar o experimento* *
+
+![image](https://user-images.githubusercontent.com/54364474/69487425-54b00280-0e38-11ea-9ced-9d4dc2e009ba.png)
+
+* *Imagem: segunda elevação da mangueira para ambas as etapas* * 
+
+No primeiro caso, a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
 
 ### Momento 1: vazão
 | Grandezas| Caso 1 | Caso 2 |
