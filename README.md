@@ -75,7 +75,8 @@ Primeiramente, a mangueira foi posicionada de modo a deixar grande parte de seu 
 
 * *Imagem: posicionamento da mangueira para realizar o experimento* 
 
-Para cada momento foi dividido em dois casos em função de duas alturas doferentes, como nas fotos abaixo:
+
+Para cada momento foi dividido em dois casos em função de duas alturas diferentes, como nas fotos abaixo:
 
 ![image](https://user-images.githubusercontent.com/54364474/69487417-29c5ae80-0e38-11ea-8c72-ed66278e19e6.png)
 
