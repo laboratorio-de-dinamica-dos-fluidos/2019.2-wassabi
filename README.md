@@ -105,7 +105,7 @@ No primeiro caso, a mangueira se encontra abaixo do corpo e no segundo caso acim
 
 
 ## Conclusão
-Tanto no primeiro momento quanto no segundo momento, os resultados mostram-se coerentes. Vê-se que no caso 1 temos um tempo menor para encher o balde e uma distância percorrida maior que se comparadas com o caso 2.
+Tanto no primeiro momento quanto no segundo momento, os resultados mostram-se coerentes. Na análise da vazão, o balde encheu mais rápido com a mangueira no alto; e na análise da distância, a água chegou mais longe também com a mangueira no alto. Ambas essas situações ocorreram porque a água saiu com maior velocidade do que com a mangueira próxima ao chão. Isso confirma a teoria da equação de Bernoulli apresentada no início deste trabalho.
 
 ## Referências Bibliográficas
 [1] M .WHITE, Frank. **Mecânica dos fluidos**. 6. ed. McGraw Hill.
