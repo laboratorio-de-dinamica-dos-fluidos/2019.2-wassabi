@@ -88,7 +88,7 @@ Para cada momento foi dividido em dois casos em função de duas alturas diferen
 * *Imagem: segunda elevação da mangueira para ambas as etapas* 
 
 
-No primeiro caso, a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
+No primeiro caso, a mangueira se encontra abaixo do corpo e no segundo caso acima do corpo. Assim obteve-se os seguintes resultados:
 
 ### Momento 1: vazão
 | Grandezas| Caso 1 | Caso 2 |
