@@ -82,9 +82,11 @@ Para cada momento foi dividido em dois casos em função de duas alturas diferen
 
 * *Imagem: primeira elevação da mangueira para ambas as etapas* 
 
+
 ![image](https://user-images.githubusercontent.com/54364474/69487425-54b00280-0e38-11ea-9ced-9d4dc2e009ba.png)
 
 * *Imagem: segunda elevação da mangueira para ambas as etapas* 
+
 
 No primeiro caso, a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
 
