@@ -43,9 +43,9 @@ Primeiramente, verificar as condições para que o efeito bernoulli aconteça: s
   
 | Integrante | Montagem | Execução |
 |--|--|--|
-| Alexandre Moriya | Mangueira | Segurar a ponta da mangueira em uma altura fixa |
-| Gustavo Weffort | Mangueira | Levantar e abaixar trechos da mangueira |
-| Letícia Marinho |  -  | Ligar mangueira e registrar o alcance horizontal da água em cada caso |
+| Alexandre Moriya | Mangueira | Segurar a ponta da mangueira a diferentes alturas |
+| Gustavo Weffort | Mangueira | Fotografar o experimento e fazer medições |
+| Letícia Marinho |  -  | Posicionar a mangueira e ligar a torneira  |
 
 ## Cronograma
 * 02/10 à 09/10 - Discussão sobre a mudança do tema
