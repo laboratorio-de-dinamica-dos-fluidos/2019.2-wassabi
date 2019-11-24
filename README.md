@@ -69,7 +69,9 @@ Logo, percebe-se que quando aumentamos uma diferença de altura entre o escoamen
 ## Dados experimentais
 Foram feitas duas formas de análise  de escoamento. Em um momento analisou-se a sua vazão utilizando-se um cronômetro e um balde e em um segundo momento analisou-se a distância percorrida fazendo marcações no chão. Para cada momento foi dividido em dois casos em função de duas alturas doferentes, como na foto abaixo:
 
-![foto1](https://drive.google.com/open?id=16X-8pzsNBl6VYzkg0KlzC-nAN9fnc9FK)
+![image](https://user-images.githubusercontent.com/54364474/69487417-29c5ae80-0e38-11ea-8c72-ed66278e19e6.png)
+
+![image](https://user-images.githubusercontent.com/54364474/69487423-3ba75180-0e38-11ea-98ac-477eeba271ae.png)
 
 No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baixo do corpo. Assim obteve-se os seguintes resultados:
 
