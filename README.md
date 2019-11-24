@@ -96,3 +96,4 @@ No primeiro caso a mangueira se encontra acima do corpo e no segundo caso a baix
 Tanto no primeiro momento quanto no segundo momento, os resultados mostram-se coerentes. Vê-se que no caso 1 temos um tempo menor para encher o balde e uma distância percorrida maior que se comparadas com o caso 2.
 
 ## Referências Bibliográficas
+[1] M .WHITE, Frank. **Mecânica dos fluidos**. 6. ed. McGraw Hill.
