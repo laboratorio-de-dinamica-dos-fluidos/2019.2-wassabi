@@ -7,11 +7,11 @@ Letícia Marinho de Souza
 
 ## Tema: Efeito Bernoulli
 ## Introdução
-Estreitamente relacionada à equação da energia para escoamento permanente, a equação de Bernoulli (Equação 1) relaciona pressão, velocidade e elevação para um fluido sem atrito. A equação de Bernoulli é muito famosa e bastante usada, mas é necessário estar atento às suas restrições — todos os fluidos são viscosos e, portanto, todos os escoamentos apresentam algum atrito. Para usarmos corretamente a equação de Bernoulli, devemos restringi-la a regiões de escoamento aproximadamente sem atrito.
+Estritamente relacionada à equação da energia para escoamento permanente, a equação de Bernoulli (Equação 1) relaciona pressão, velocidade e elevação para um fluido sem atrito. A equação de Bernoulli é muito famosa e bastante usada, mas é necessário estar atento às suas restrições — todos os fluidos são viscosos e, portanto, todos os escoamentos apresentam algum atrito. Para usarmos corretamente a equação de Bernoulli, devemos restringi-la a regiões de escoamento aproximadamente sem atrito.
 
 ![Equação de Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-wassabi/blob/master/Equa%C3%A7%C3%A3o%20de%20Bernoulli.PNG?raw=true)                                                            (1). 
 
-Como o princípio de Bernoulli pode ser visto como outra forma da lei de conservação da energia, ou seja, em uma linha de corrente a variação da energia é nula, num exemplo como as tubulações, podemos reduzir a área de seção transversal para aumentar a velocidade do fluido que está sendo escoado.
+O princípio de Bernoulli pode ser visto como outra forma da lei de conservação da energia, ou seja, em uma linha de corrente a variação da energia é nula. Num exemplo como as tubulações, podemos reduzir a área de seção transversal para aumentar a velocidade do fluido que está sendo escoado e vice versa.
 
 ![Foto1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-wassabi/blob/master/Tubo%20Eq%20Bernoulli.png?raw=true)
 
